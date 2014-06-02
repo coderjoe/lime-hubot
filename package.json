@@ -21,9 +21,14 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
-    "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-irc": ">= 0.2.6"
+     "hubot": ">= 2.6.0 < 3.0.0",
+     "hubot-scripts": ">= 2.5.0 < 3.0.0",
+     "hubot-irc": ">= 0.2.6",
+     "flip": "~0.1.0",
+     "cheerio": "0.10.5",
+     "prowler": "0.0.3",
+     "xml2js": "0.1.14",
+     "hubot-tell": "*"
   },
   "engines": {
     "node": ">= 0.8.x",
